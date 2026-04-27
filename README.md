@@ -1,7 +1,9 @@
 ## Superstore Sales & Profitability Analysis
 
 ## 📊 Project Overview
-This project analyzes retail data from a "Superstore" to identify growth trends and profitability leaks. The dashboard provides a executive summary of sales performance while allowing for deep dives into regional and product-level efficiency.
+This project analyzes retail data from a "Superstore" to identify growth trends and profitability leaks. The report provides a executive summary of sales performance while allowing for deep dives into regional and product-level efficiency.
+Report Screenshot : Superstore_Sales_Report.png
+
 
 ## 🗃️ Dataset
 The data used in this analysis is sourced from the **Walmart Sales** dataset on Kaggle.
