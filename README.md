@@ -31,7 +31,7 @@ Profitability Warning: Despite sales growth, overall Profit Margin declined by -
 Underperforming Categories: The Tables sub-category is the most significant "profit bleeder," showing a net loss of nearly $20K despite high sales volume.
 Regional Strength: The West region leads in both sales and profit margin, while the Central region shows high volatility in product efficiency.
 
-##📂 How to View
+## 📂 How to View
 1. Download the 'Superstore_Performance.pbix' file from this repository.
 2. Open in Power BI Desktop.
 3. Interact with the Year Slicer at the top to see how metrics shift over time
