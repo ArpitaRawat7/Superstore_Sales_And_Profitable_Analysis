@@ -35,6 +35,3 @@ Regional Strength: The West region leads in both sales and profit margin, while 
 1. Download the 'Superstore_Performance.pbix' file from this repository.
 2. Open in Power BI Desktop.
 3. Interact with the Year Slicer at the top to see how metrics shift over time
-
-Open in Power BI Desktop.
-Interact with the Year Slicer at the top to see how metrics shift over time.
